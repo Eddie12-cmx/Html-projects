@@ -1,0 +1,53 @@
+.card{
+  background-color: aqua;
+      border-radius: 12px;
+      padding: 1.5rem;
+      width: 300px;
+      
+      
+ 
+
+}
+
+.heading{
+    text-align: center;
+    background-color: lightblue;
+    padding: 5%;
+}
+.heading2{
+background-color: white;
+      border-radius: 12px;
+      padding: 1.5rem;
+      width: 200px;
+
+}
+.card2{
+background-color: aqua;
+      border-radius: 12px;
+      padding: 1.5rem;
+      width: 300px;
+
+
+}
+.heading3{
+    background-color: white;
+      border-radius: 12px;
+      padding: 1.5rem;
+      width: 200px;
+
+}
+.flex{
+display: flex;
+justify-content: space-around;
+
+}
+.footer{
+    background-color: lightblue;
+    text-align: center;
+    padding: 2%;
+}
+.img{
+  width: 30%;
+  height: 30%;
+    
+}
